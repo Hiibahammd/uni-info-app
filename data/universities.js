@@ -10,25 +10,23 @@ window.UNIVERSITIES_DATA = [
     campuses: ["H-12 Islamabad (Main)", "Rawalpindi (E&ME, MCE)", "Risalpur (CAE)", "Karachi (PNEC)"],
     province: "Islamabad / Federal",
     type: "Public",
-    rankingBadge: "#1 in Pakistan (QS World Ranking)",
+    rankingBadge: "#1 in Pakistan",
     logoText: "NUST",
     themeColor: "#0f4c81",
-    overview: "Pakistan's premier science and technology university, globally ranked for engineering, computer science, and business. Famous for its H-12 campus, incubation ecosystem, and rigorous research.",
+    overview: "",
     admissionsCycle: "Multiple NET Series (NET-1 in Dec, NET-2 in Feb/Mar, NET-3 in Apr/May, NET-4 in Jun/Jul). Single Fall Intake.",
     primaryTest: {
       name: "NET (NUST Entrance Test)",
       totalMarks: 200,
       durationMinutes: 180,
       conductedBy: "NUST",
-      series: "4 series per year (NET-1, 2, 3, 4). Best score is automatically considered for final merit list.",
+      series: "4 series per year. Best score is automatically considered for final merit list.",
       pattern: [
-        { subject: "Mathematics", marks: 80, percent: "40%" },
+        { subject: "Mathematics", marks: 100, percent: "50%" },
         { subject: "Physics", marks: 60, percent: "30%" },
-        { subject: "Chemistry / Comp Science", marks: 30, percent: "15%" },
-        { subject: "English", marks: 20, percent: "10%" },
-        { subject: "Intelligence", marks: 10, percent: "5%" }
+        { subject: "English", marks: 40, percent: "20%" },
       ],
-      alternativeTests: ["SAT Subject (for international/national ACT seats)", "ACT (Composite score 25+)"]
+      alternativeTests: ["SAT (for business/llb/social studies only)", "ACT (Composite score 25+)"]
     },
     meritFormula: {
       testPercent: 75,
