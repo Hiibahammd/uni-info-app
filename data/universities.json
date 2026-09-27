@@ -1,0 +1,17 @@
+[
+  {
+    "id": "nust",
+    "name": "National University of Sciences & Technology",
+    "shortName": "NUST",
+    "city": "Islamabad",
+    "type": "Public",
+    "officialLinks": {
+      "website": "https://nust.edu.pk",
+      "admissionsPortal": "https://ugadmissions.nust.edu.pk",
+      "testRegistration": "https://net.nust.edu.pk",
+      "feeStructureUrl": "https://nust.edu.pk/admissions/undergraduate/fee-structure",
+      "prospectusUrl": "https://nust.edu.pk/admissions/undergraduate/prospectus",
+      "samplePapers": "https://nust.edu.pk/admissions/undergraduate/net-pattern"
+    }
+  }
+]
